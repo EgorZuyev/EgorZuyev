@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @EgorZuyev
+- 👀 I’m interested in programming and 3D designe
+- 🌱 I’m currently learning C#
+- 📫 How to reach me: discord - https://discord.gg/z36Ff3Zt
